@@ -1,0 +1,19 @@
+body{
+    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+    
+}
+p{
+   
+}
+.jumbotron{
+    padding-top: 7rem;
+    background-color: #000000;
+}
+
+#projects {
+    background-color:#b30808;
+}
+
+section {
+    padding-top: 5rem;
+}
